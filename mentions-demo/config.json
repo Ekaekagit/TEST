@@ -1,0 +1,10 @@
+{
+  "appName": "mentions-demo",
+  "maxTasks": 100,
+  "defaultPriority": "normal",
+  "priorities": ["low", "normal", "high"],
+  "storage": {
+    "kind": "memory",
+    "autosave": false
+  }
+}
